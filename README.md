@@ -40,6 +40,6 @@ Before you begin, make sure you have the following:
 
 2. Enter the city name in the input field.
 
-3. Click the "Get Weather" button.
+3. Click the search icon.
 
 4. The app will fetch and display the current weather information for the entered city.
