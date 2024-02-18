@@ -1,6 +1,7 @@
 # Weather App
 
 This is a simple weather app that utilizes the OpenWeatherMap API to fetch and display current weather information based on the entered city name.
+see website live [here](https://pranavsgit.github.io/Weather-app/)
 
 ## Getting Started
 
@@ -15,22 +16,22 @@ Before you begin, make sure you have the following:
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/your-username/weather-app.git
-    ```
+   ```bash
+   git clone https://github.com/your-username/weather-app.git
+   ```
 
 2. Navigate to the project directory:
 
-    ```bash
-    cd weather-app
-    ```
+   ```bash
+   cd weather-app
+   ```
 
 3. Create a file named `config.js` in the root of the project and add your OpenWeatherMap API key:
 
-    ```javascript
-    // config.js
-    const apiKey = "YOUR_OPENWEATHERMAP_API_KEY";
-    ```
+   ```javascript
+   // config.js
+   const apiKey = "YOUR_OPENWEATHERMAP_API_KEY";
+   ```
 
 4. Open `index.html` in your preferred web browser or host the project on a local server.
 
